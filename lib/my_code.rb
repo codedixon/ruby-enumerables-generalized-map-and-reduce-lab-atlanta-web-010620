@@ -9,6 +9,4 @@ def map(source_array)
   yield(source_array)
 end
 
-map(source_array) {|new_array| new_array * -1}
-  
   
