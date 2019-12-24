@@ -16,6 +16,7 @@ def reduce(source_array, starting_point = 0)
   if source_array[i] == false
     total = false
     i += 1
+  else if source_array[i] 
   else
   total += source_array[i]
   end
