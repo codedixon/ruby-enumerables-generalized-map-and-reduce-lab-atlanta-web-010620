@@ -13,3 +13,4 @@ def reduce(source_array, starting_point = 0)
   total = 0 + starting_point
   i = 0 
   while i < source_array.length
+  i += 1
